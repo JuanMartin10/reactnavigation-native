@@ -35,6 +35,7 @@ const App = () => {
           <Stack.Screen
             name="Inicio"
             component={Inicio}
+
           />
           <Stack.Screen
             name="Nosotros"
